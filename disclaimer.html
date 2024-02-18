@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer</title>
+    <style>
+        body {
+            font-family: 'Ubuntu Mono', monospace;
+            background-color: black;
+            color: #00ff00; /* warna hijau untuk teks */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden; /* agar teks di dalam kotak tetap terlihat saat scrolling */
+        }
+
+        .disclaimer-container {
+            background-color: rgba(0, 0, 0, 0.7); /* hitam transparan */
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+            white-space: pre-wrap; /* agar teks dapat turun ke baris baru */
+            overflow: hidden; /* agar teks di dalam kotak terlihat dengan efek animasi */
+            border: 1px solid #00ff00; /* warna hijau */
+        }
+
+        .disclaimer-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #00ff00; /* warna hijau */
+        }
+
+        .disclaimer-content {
+            font-size: 16px;
+            margin-top: 20px;
+            color: white;
+        }
+
+        /* Animasi untuk teks bergerak ke atas */
+        @keyframes moveUp {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="disclaimer-container">
+        <div class="disclaimer-title">Disclaimer</div>
+        <div class="disclaimer-content">
+            Situs ini menyediakan informasi sebagai referensi. Pengguna bertanggung jawab untuk memverifikasi keabsahan dan akurasi informasi. Kami tidak bertanggung jawab atas konsekuensi hukum atau kerugian yang timbul dari penggunaan informasi ini.
+        </div>
+    </div>
+
+</body>
+</html>

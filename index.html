@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KPU Error</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: black;
+            color: #00ff00; /* warna hijau untuk teks */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .error-container {
+            background-color: rgba(255, 0, 0, 0.7); /* merah transparan */
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+        }
+
+        .error-title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .error-description {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .paslon-container {
+            margin-top: 20px;
+        }
+
+        .paslon {
+            background-color: rgba(255, 0, 0, 0.5); /* merah transparan */
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .paslon-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+        }
+
+        .paslon-info {
+            font-size: 16px;
+            color: white;
+        }
+
+        .link-button {
+            display: block;
+            margin-top: 10px;
+            text-decoration: none;
+            color: #00ff00; /* warna hijau */
+            border: 1px solid #00ff00; /* warna hijau */
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .link-button:hover {
+            background-color: #00ff00; /* warna hijau */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="error-container">
+        <div class="error-title">KPU Error</div>
+        <div class="error-description">Membantu KPU dan seluruh tim capres dalam mencari data yang tidak sesuai di website KPU</div>
+
+        <div class="paslon-container">
+            <div class="paslon" style="background-color: rgba(0, 0, 255, 0.5);"> <!-- biru transparan -->
+                <div class="paslon-title">Paslon 1</div>
+                <div class="paslon-info">Total Link Ditemukan: 630</div>
+                <div class="paslon-info">Tanggal Temuan: 17/02/2024</div>
+                <div class="paslon-info">Penggelembungan: ?</div>
+                <a href="linkTemuan1.html" class="link-button">Lihat Selengkapnya</a>
+            </div>
+
+            <div class="paslon" style="background-color: rgba(255, 255, 0, 0.5);"> <!-- kuning transparan -->
+                <div class="paslon-title">Paslon 2</div>
+                <div class="paslon-info">Total Link Ditemukan: 1021</div>
+                <div class="paslon-info">Tanggal Temuan: 17/02/2024</div>
+                <div class="paslon-info">Penggelembungan: ?</div>
+                <a href="linkTemuan2.html" class="link-button">Lihat Selengkapnya</a>
+            </div>
+
+            <div class="paslon" style="background-color: rgba(255, 165, 0, 0.5);"> <!-- oranye transparan -->
+                <div class="paslon-title">Paslon 3</div>
+                <div class="paslon-info">Total Link Ditemukan: 572</div>
+                <div class="paslon-info">Tanggal Temuan: 17/02/2024</div>
+                <div class="paslon-info">Penggelembungan: ?</div>
+                <a href="linkTemuan3.html" class="link-button">Lihat Selengkapnya</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
