@@ -1,6 +1,15 @@
 [{
   "_id": {
-    "$oid": "65d34dc5fa260b49f9b69c6f"
+    "$oid": "65d404a949285290e2bac81b"
+  },
+  "angka": {
+    "$numberLong": "1114082014002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1114/111408/1114082014/1114082014002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac81c"
   },
   "angka": {
     "$numberLong": "1101142005001"
@@ -9,7 +18,52 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c70"
+    "$oid": "65d404a949285290e2bac81d"
+  },
+  "angka": {
+    "$numberLong": "1174042001003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1174/117404/1174042001/1174042001003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac81e"
+  },
+  "angka": {
+    "$numberLong": "1107142052002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1107/110714/1107142052/1107142052002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac81f"
+  },
+  "angka": {
+    "$numberLong": "3604242001003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3604/360424/3604242001/3604242001003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac820"
+  },
+  "angka": {
+    "$numberLong": "3603152012044"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360315/3603152012/3603152012044"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac821"
+  },
+  "angka": {
+    "$numberLong": "3603152004010"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360315/3603152004/3603152004010"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac822"
   },
   "angka": {
     "$numberLong": "3603112006003"
@@ -18,7 +72,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c71"
+    "$oid": "65d404a949285290e2bac823"
   },
   "angka": {
     "$numberLong": "3603312001015"
@@ -27,7 +81,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c72"
+    "$oid": "65d404a949285290e2bac824"
+  },
+  "angka": {
+    "$numberLong": "3603102001005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360310/3603102001/3603102001005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac825"
+  },
+  "angka": {
+    "$numberLong": "1708012009002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1708/170801/1708012009/1708012009002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac826"
   },
   "angka": {
     "$numberLong": "3404172005014"
@@ -36,7 +108,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c73"
+    "$oid": "65d404a949285290e2bac827"
   },
   "angka": {
     "$numberLong": "3173011006127"
@@ -45,7 +117,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c74"
+    "$oid": "65d404a949285290e2bac828"
+  },
+  "angka": {
+    "$numberLong": "3173011005100"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317301/3173011005/3173011005100"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac829"
   },
   "angka": {
     "$numberLong": "3173031002037"
@@ -54,7 +135,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c75"
+    "$oid": "65d404a949285290e2bac82a"
   },
   "angka": {
     "$numberLong": "3173041008008"
@@ -63,7 +144,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c76"
+    "$oid": "65d404a949285290e2bac82b"
   },
   "angka": {
     "$numberLong": "3171031006061"
@@ -72,7 +153,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c77"
+    "$oid": "65d404a949285290e2bac82c"
+  },
+  "angka": {
+    "$numberLong": "3174051002008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317405/3174051002/3174051002008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac82d"
   },
   "angka": {
     "$numberLong": "3175091001100"
@@ -81,7 +171,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c78"
+    "$oid": "65d404a949285290e2bac82e"
   },
   "angka": {
     "$numberLong": "3175091004057"
@@ -90,7 +180,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c79"
+    "$oid": "65d404a949285290e2bac82f"
   },
   "angka": {
     "$numberLong": "3172041002052"
@@ -99,7 +189,52 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7a"
+    "$oid": "65d404a949285290e2bac830"
+  },
+  "angka": {
+    "$numberLong": "7501202003005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7501/750120/7501202003/7501202003005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac831"
+  },
+  "angka": {
+    "$numberLong": "3204082001040"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320408/3204082001/3204082001040"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac832"
+  },
+  "angka": {
+    "$numberLong": "3204442005026"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320444/3204442005/3204442005026"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac833"
+  },
+  "angka": {
+    "$numberLong": "3204312003016"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320431/3204312003/3204312003016"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac834"
+  },
+  "angka": {
+    "$numberLong": "3204352006039"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320435/3204352006/3204352006039"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac835"
   },
   "angka": {
     "$numberLong": "3217012011001"
@@ -108,7 +243,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7b"
+    "$oid": "65d404a949285290e2bac836"
+  },
+  "angka": {
+    "$numberLong": "3201332005019"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320133/3201332005/3201332005019"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac837"
   },
   "angka": {
     "$numberLong": "3201322006043"
@@ -117,7 +261,70 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7c"
+    "$oid": "65d404a949285290e2bac838"
+  },
+  "angka": {
+    "$numberLong": "3207032002007"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320703/3207032002/3207032002007"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac839"
+  },
+  "angka": {
+    "$numberLong": "3207032002017"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320703/3207032002/3207032002017"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83a"
+  },
+  "angka": {
+    "$numberLong": "3207032002018"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320703/3207032002/3207032002018"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83b"
+  },
+  "angka": {
+    "$numberLong": "3209252005004"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320925/3209252005/3209252005004"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83c"
+  },
+  "angka": {
+    "$numberLong": "3209252004017"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320925/3209252004/3209252004017"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83d"
+  },
+  "angka": {
+    "$numberLong": "3209182015009"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320918/3209182015/3209182015009"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83e"
+  },
+  "angka": {
+    "$numberLong": "3209272006016"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320927/3209272006/3209272006016"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac83f"
   },
   "angka": {
     "$numberLong": "3205092002001"
@@ -126,7 +333,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7d"
+    "$oid": "65d404a949285290e2bac840"
   },
   "angka": {
     "$numberLong": "3205332011011"
@@ -135,7 +342,34 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7e"
+    "$oid": "65d404a949285290e2bac841"
+  },
+  "angka": {
+    "$numberLong": "3212202005008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321220/3212202005/3212202005008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac842"
+  },
+  "angka": {
+    "$numberLong": "3215222007013"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321522/3215222007/3215222007013"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac843"
+  },
+  "angka": {
+    "$numberLong": "3273251003017"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327325/3273251003/3273251003017"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac844"
   },
   "angka": {
     "$numberLong": "3275121004002"
@@ -144,7 +378,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c7f"
+    "$oid": "65d404a949285290e2bac845"
   },
   "angka": {
     "$numberLong": "3276021012061"
@@ -153,7 +387,61 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c80"
+    "$oid": "65d404a949285290e2bac846"
+  },
+  "angka": {
+    "$numberLong": "3276051004052"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3276/327605/3276051004/3276051004052"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac847"
+  },
+  "angka": {
+    "$numberLong": "3210032001006"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3210/321003/3210032001/3210032001006"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac848"
+  },
+  "angka": {
+    "$numberLong": "3214062010010"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3214/321406/3214062010/3214062010010"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac849"
+  },
+  "angka": {
+    "$numberLong": "3202152005009"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3202/320215/3202152005/3202152005009"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac84a"
+  },
+  "angka": {
+    "$numberLong": "3202092001018"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3202/320209/3202092001/3202092001018"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac84b"
+  },
+  "angka": {
+    "$numberLong": "3211192007013"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3211/321119/3211192007/3211192007013"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac84c"
   },
   "angka": {
     "$numberLong": "3211152006012"
@@ -162,16 +450,52 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c81"
+    "$oid": "65d404a949285290e2bac84d"
   },
   "angka": {
-    "$numberLong": "3206172005009"
+    "$numberLong": "3211182012016"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3206/320617/3206172005/3206172005009"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3211/321118/3211182012/3211182012016"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c82"
+    "$oid": "65d404a949285290e2bac84e"
+  },
+  "angka": {
+    "$numberLong": "3211181002003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3211/321118/3211181002/3211181002003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac84f"
+  },
+  "angka": {
+    "$numberLong": "3211181002006"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3211/321118/3211181002/3211181002006"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac850"
+  },
+  "angka": {
+    "$numberLong": "3329052004001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3329/332905/3329052004/3329052004001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac851"
+  },
+  "angka": {
+    "$numberLong": "3329082020008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3329/332908/3329082020/3329082020008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac852"
   },
   "angka": {
     "$numberLong": "3301112001010"
@@ -180,7 +504,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c83"
+    "$oid": "65d404a949285290e2bac853"
+  },
+  "angka": {
+    "$numberLong": "3315082007003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3315/331508/3315082007/3315082007003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac854"
+  },
+  "angka": {
+    "$numberLong": "3320052005017"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3320/332005/3320052005/3320052005017"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac855"
   },
   "angka": {
     "$numberLong": "3320072001002"
@@ -189,16 +531,151 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c84"
+    "$oid": "65d404a949285290e2bac856"
   },
   "angka": {
-    "$numberLong": "3326192002008"
+    "$numberLong": "3310232001035"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3326/332619/3326192002/3326192002008"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3310/331023/3310232001/3310232001035"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c85"
+    "$oid": "65d404a949285290e2bac857"
+  },
+  "angka": {
+    "$numberLong": "3310232004009"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3310/331023/3310232004/3310232004009"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac858"
+  },
+  "angka": {
+    "$numberLong": "3326162015007"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3326/332616/3326162015/3326162015007"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac859"
+  },
+  "angka": {
+    "$numberLong": "3327102004010"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3327/332710/3327102004/3327102004010"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85a"
+  },
+  "angka": {
+    "$numberLong": "3328052009007"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3328/332805/3328052009/3328052009007"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85b"
+  },
+  "angka": {
+    "$numberLong": "3312132006026"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3312/331213/3312132006/3312132006026"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85c"
+  },
+  "angka": {
+    "$numberLong": "3312122004005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/33/3312/331212/3312122004/3312122004005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85d"
+  },
+  "angka": {
+    "$numberLong": "3522282001005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3522/352228/3522282001/3522282001005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85e"
+  },
+  "angka": {
+    "$numberLong": "3522282001008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3522/352228/3522282001/3522282001008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac85f"
+  },
+  "angka": {
+    "$numberLong": "3525042017006"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3525/352504/3525042017/3525042017006"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac860"
+  },
+  "angka": {
+    "$numberLong": "3525132009004"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3525/352513/3525132009/3525132009004"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac861"
+  },
+  "angka": {
+    "$numberLong": "3509222006017"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3509/350922/3509222006/3509222006017"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac862"
+  },
+  "angka": {
+    "$numberLong": "3509042007022"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3509/350904/3509042007/3509042007022"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac863"
+  },
+  "angka": {
+    "$numberLong": "3509282001021"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3509/350928/3509282001/3509282001021"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac864"
+  },
+  "angka": {
+    "$numberLong": "3517022007003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3517/351702/3517022007/3517022007003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac865"
+  },
+  "angka": {
+    "$numberLong": "3517092020005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3517/351709/3517092020/3517092020005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac866"
   },
   "angka": {
     "$numberLong": "3517122012007"
@@ -207,25 +684,97 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c86"
+    "$oid": "65d404a949285290e2bac867"
   },
   "angka": {
-    "$numberLong": "3524172003007"
+    "$numberLong": "3506162002016"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3524/352417/3524172003/3524172003007"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3506/350616/3506162002/3506162002016"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c87"
+    "$oid": "65d404a949285290e2bac868"
   },
   "angka": {
-    "$numberLong": "3507252001008"
+    "$numberLong": "3506202004001"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3507/350725/3507252001/3507252001008"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3506/350620/3506202004/3506202004001"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c88"
+    "$oid": "65d404a949285290e2bac869"
+  },
+  "angka": {
+    "$numberLong": "3578061006003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3578/357806/3578061006/3578061006003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86a"
+  },
+  "angka": {
+    "$numberLong": "3578061006067"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3578/357806/3578061006/3578061006067"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86b"
+  },
+  "angka": {
+    "$numberLong": "3578061006074"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3578/357806/3578061006/3578061006074"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86c"
+  },
+  "angka": {
+    "$numberLong": "3578101008060"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3578/357810/3578101008/3578101008060"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86d"
+  },
+  "angka": {
+    "$numberLong": "3578021003003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3578/357802/3578021003/3578021003003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86e"
+  },
+  "angka": {
+    "$numberLong": "3507292006011"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3507/350729/3507292006/3507292006011"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac86f"
+  },
+  "angka": {
+    "$numberLong": "3507232003028"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3507/350723/3507232003/3507232003028"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac870"
+  },
+  "angka": {
+    "$numberLong": "3507132017005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3507/350713/3507132017/3507132017005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac871"
   },
   "angka": {
     "$numberLong": "3507182005001"
@@ -234,16 +783,34 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c89"
+    "$oid": "65d404a949285290e2bac872"
   },
   "angka": {
-    "$numberLong": "3521132005020"
+    "$numberLong": "3516172010006"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3521/352113/3521132005/3521132005020"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3516/351617/3516172010/3516172010006"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8a"
+    "$oid": "65d404a949285290e2bac873"
+  },
+  "angka": {
+    "$numberLong": "3516142007010"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3516/351614/3516142007/3516142007010"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac874"
+  },
+  "angka": {
+    "$numberLong": "3518112008015"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3518/351811/3518112008/3518112008015"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac875"
   },
   "angka": {
     "$numberLong": "3521102002011"
@@ -252,16 +819,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8b"
+    "$oid": "65d404a949285290e2bac876"
   },
   "angka": {
-    "$numberLong": "3528082002001"
+    "$numberLong": "3521102003002"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3528/352808/3528082002/3528082002001"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3521/352110/3521102003/3521102003002"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8c"
+    "$oid": "65d404a949285290e2bac877"
+  },
+  "angka": {
+    "$numberLong": "3521012012002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3521/352101/3521012012/3521012012002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac878"
   },
   "angka": {
     "$numberLong": "3528082002003"
@@ -270,7 +846,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8d"
+    "$oid": "65d404a949285290e2bac879"
   },
   "angka": {
     "$numberLong": "3528052022011"
@@ -279,25 +855,79 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8e"
+    "$oid": "65d404a949285290e2bac87a"
   },
   "angka": {
-    "$numberLong": "3514072014004"
+    "$numberLong": "3514202013003"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3514/351407/3514072014/3514072014004"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3514/351420/3514202013/3514202013003"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c8f"
+    "$oid": "65d404a949285290e2bac87b"
   },
   "angka": {
-    "$numberLong": "3513052005013"
+    "$numberLong": "3514082015011"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3513/351305/3513052005/3513052005013"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3514/351408/3514082015/3514082015011"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c90"
+    "$oid": "65d404a949285290e2bac87c"
+  },
+  "angka": {
+    "$numberLong": "3502072012011"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3502/350207/3502072012/3502072012011"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac87d"
+  },
+  "angka": {
+    "$numberLong": "3513132017001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3513/351313/3513132017/3513132017001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac87e"
+  },
+  "angka": {
+    "$numberLong": "3515172013008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3515/351517/3515172013/3515172013008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac87f"
+  },
+  "angka": {
+    "$numberLong": "3515082015003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3515/351508/3515082015/3515082015003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac880"
+  },
+  "angka": {
+    "$numberLong": "3515132024001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3515/351513/3515132024/3515132024001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac881"
+  },
+  "angka": {
+    "$numberLong": "3515182015003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3515/351518/3515182015/3515182015003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac882"
   },
   "angka": {
     "$numberLong": "3512052004004"
@@ -306,7 +936,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c91"
+    "$oid": "65d404a949285290e2bac883"
+  },
+  "angka": {
+    "$numberLong": "3503112001012"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/35/3503/350311/3503112001/3503112001012"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac884"
+  },
+  "angka": {
+    "$numberLong": "6171031001045"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/61/6171/617103/6171031001/6171031001045"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac885"
   },
   "angka": {
     "$numberLong": "6171031003047"
@@ -315,16 +963,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c92"
+    "$oid": "65d404a949285290e2bac886"
   },
   "angka": {
-    "$numberLong": "6371031009060"
+    "$numberLong": "6101032005008"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/63/6371/637103/6371031009/6371031009060"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/61/6101/610103/6101032005/6101032005008"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c93"
+    "$oid": "65d404a949285290e2bac887"
+  },
+  "angka": {
+    "$numberLong": "6372021004025"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/63/6372/637202/6372021004/6372021004025"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac888"
   },
   "angka": {
     "$numberLong": "6310032004009"
@@ -333,7 +990,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c94"
+    "$oid": "65d404a949285290e2bac889"
+  },
+  "angka": {
+    "$numberLong": "6301012006003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/63/6301/630101/6301012006/6301012006003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac88a"
   },
   "angka": {
     "$numberLong": "6301012012009"
@@ -342,25 +1008,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c95"
+    "$oid": "65d404a949285290e2bac88b"
   },
   "angka": {
-    "$numberLong": "6502022002030"
+    "$numberLong": "6211062006001"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/65/6502/650202/6502022002/6502022002030"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/62/6211/621106/6211062006/6211062006001"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c96"
+    "$oid": "65d404a949285290e2bac88c"
   },
   "angka": {
-    "$numberLong": "1804232003023"
+    "$numberLong": "1871091004008"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1804/180423/1804232003/1804232003023"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1871/187109/1871091004/1871091004008"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c97"
+    "$oid": "65d404a949285290e2bac88d"
   },
   "angka": {
     "$numberLong": "1801132009004"
@@ -369,16 +1035,43 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c98"
+    "$oid": "65d404a949285290e2bac88e"
   },
   "angka": {
-    "$numberLong": "1802182001016"
+    "$numberLong": "1802102011004"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1802/180218/1802182001/1802182001016"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1802/180210/1802102011/1802102011004"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c99"
+    "$oid": "65d404a949285290e2bac88f"
+  },
+  "angka": {
+    "$numberLong": "1807092002003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1807/180709/1807092002/1807092002003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac890"
+  },
+  "angka": {
+    "$numberLong": "1811012002003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1811/181101/1811012002/1811012002003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac891"
+  },
+  "angka": {
+    "$numberLong": "1811012002004"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/18/1811/181101/1811012002/1811012002004"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac892"
   },
   "angka": {
     "$numberLong": "9906010001001"
@@ -387,7 +1080,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9a"
+    "$oid": "65d404a949285290e2bac893"
   },
   "angka": {
     "$numberLong": "9906010001003"
@@ -396,7 +1089,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9b"
+    "$oid": "65d404a949285290e2bac894"
   },
   "angka": {
     "$numberLong": "9939010001012"
@@ -405,7 +1098,88 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9c"
+    "$oid": "65d404a949285290e2bac895"
+  },
+  "angka": {
+    "$numberLong": "9951010001002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9951/995101/9951010001/9951010001002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac896"
+  },
+  "angka": {
+    "$numberLong": "9952010001002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9952/995201/9952010001/9952010001002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac897"
+  },
+  "angka": {
+    "$numberLong": "9953010001015"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001015"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac898"
+  },
+  "angka": {
+    "$numberLong": "9953010001016"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001016"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac899"
+  },
+  "angka": {
+    "$numberLong": "9953010001025"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001025"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac89a"
+  },
+  "angka": {
+    "$numberLong": "9953010001026"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001026"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac89b"
+  },
+  "angka": {
+    "$numberLong": "9953010001027"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001027"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac89c"
+  },
+  "angka": {
+    "$numberLong": "9953010001028"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001028"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac89d"
+  },
+  "angka": {
+    "$numberLong": "9953010001001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac89e"
   },
   "angka": {
     "$numberLong": "9953010001002"
@@ -414,7 +1188,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9d"
+    "$oid": "65d404a949285290e2bac89f"
+  },
+  "angka": {
+    "$numberLong": "9953010001005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8a0"
+  },
+  "angka": {
+    "$numberLong": "9953010001006"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001006"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8a1"
   },
   "angka": {
     "$numberLong": "9953010001007"
@@ -423,7 +1215,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9e"
+    "$oid": "65d404a949285290e2bac8a2"
+  },
+  "angka": {
+    "$numberLong": "9953010001008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8a3"
   },
   "angka": {
     "$numberLong": "9953010001009"
@@ -432,7 +1233,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69c9f"
+    "$oid": "65d404a949285290e2bac8a4"
   },
   "angka": {
     "$numberLong": "9953010001010"
@@ -441,7 +1242,25 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca0"
+    "$oid": "65d404a949285290e2bac8a5"
+  },
+  "angka": {
+    "$numberLong": "9953010001011"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001011"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8a6"
+  },
+  "angka": {
+    "$numberLong": "9953010001012"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9953/995301/9953010001/9953010001012"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8a7"
   },
   "angka": {
     "$numberLong": "9956010001002"
@@ -450,7 +1269,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca1"
+    "$oid": "65d404a949285290e2bac8a8"
   },
   "angka": {
     "$numberLong": "9956010001003"
@@ -459,7 +1278,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca2"
+    "$oid": "65d404a949285290e2bac8a9"
   },
   "angka": {
     "$numberLong": "9956010001004"
@@ -468,7 +1287,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca3"
+    "$oid": "65d404a949285290e2bac8aa"
   },
   "angka": {
     "$numberLong": "9956010001005"
@@ -477,7 +1296,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca4"
+    "$oid": "65d404a949285290e2bac8ab"
   },
   "angka": {
     "$numberLong": "9956010001006"
@@ -486,7 +1305,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca5"
+    "$oid": "65d404a949285290e2bac8ac"
   },
   "angka": {
     "$numberLong": "9956010001007"
@@ -495,7 +1314,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca6"
+    "$oid": "65d404a949285290e2bac8ad"
   },
   "angka": {
     "$numberLong": "9956010001008"
@@ -504,7 +1323,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca7"
+    "$oid": "65d404a949285290e2bac8ae"
   },
   "angka": {
     "$numberLong": "9956010001009"
@@ -513,7 +1332,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca8"
+    "$oid": "65d404a949285290e2bac8af"
   },
   "angka": {
     "$numberLong": "9956010001010"
@@ -522,7 +1341,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69ca9"
+    "$oid": "65d404a949285290e2bac8b0"
   },
   "angka": {
     "$numberLong": "9956010001011"
@@ -531,7 +1350,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69caa"
+    "$oid": "65d404a949285290e2bac8b1"
   },
   "angka": {
     "$numberLong": "9956010001012"
@@ -540,7 +1359,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cab"
+    "$oid": "65d404a949285290e2bac8b2"
   },
   "angka": {
     "$numberLong": "9956010001013"
@@ -549,7 +1368,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cac"
+    "$oid": "65d404a949285290e2bac8b3"
   },
   "angka": {
     "$numberLong": "9956010001015"
@@ -558,7 +1377,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cad"
+    "$oid": "65d404a949285290e2bac8b4"
   },
   "angka": {
     "$numberLong": "9956010001016"
@@ -567,7 +1386,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cae"
+    "$oid": "65d404a949285290e2bac8b5"
   },
   "angka": {
     "$numberLong": "9956010001017"
@@ -576,7 +1395,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69caf"
+    "$oid": "65d404a949285290e2bac8b6"
   },
   "angka": {
     "$numberLong": "9956010001018"
@@ -585,7 +1404,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb0"
+    "$oid": "65d404a949285290e2bac8b7"
   },
   "angka": {
     "$numberLong": "9956010001019"
@@ -594,7 +1413,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb1"
+    "$oid": "65d404a949285290e2bac8b8"
   },
   "angka": {
     "$numberLong": "9956010001020"
@@ -603,7 +1422,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb2"
+    "$oid": "65d404a949285290e2bac8b9"
   },
   "angka": {
     "$numberLong": "9956010001021"
@@ -612,7 +1431,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb3"
+    "$oid": "65d404a949285290e2bac8ba"
   },
   "angka": {
     "$numberLong": "9967010001001"
@@ -621,7 +1440,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb4"
+    "$oid": "65d404a949285290e2bac8bb"
   },
   "angka": {
     "$numberLong": "9967010001002"
@@ -630,7 +1449,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb5"
+    "$oid": "65d404a949285290e2bac8bc"
   },
   "angka": {
     "$numberLong": "9967010001004"
@@ -639,16 +1458,34 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb6"
+    "$oid": "65d404a949285290e2bac8bd"
   },
   "angka": {
-    "$numberLong": "5202102013001"
+    "$numberLong": "9998010001012"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/52/5202/520210/5202102013/5202102013001"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9998/999801/9998010001/9998010001012"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb7"
+    "$oid": "65d404a949285290e2bac8be"
+  },
+  "angka": {
+    "$numberLong": "9998010001005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/99/9998/999801/9998010001/9998010001005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8bf"
+  },
+  "angka": {
+    "$numberLong": "5201142008001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/52/5201/520114/5201142008/5201142008001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8c0"
   },
   "angka": {
     "$numberLong": "5203032013003"
@@ -657,7 +1494,16 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb8"
+    "$oid": "65d404a949285290e2bac8c1"
+  },
+  "angka": {
+    "$numberLong": "1407172003001"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/14/1407/140717/1407172003/1407172003001"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8c2"
   },
   "angka": {
     "$numberLong": "1407051018032"
@@ -666,7 +1512,7 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cb9"
+    "$oid": "65d404a949285290e2bac8c3"
   },
   "angka": {
     "$numberLong": "7304021003004"
@@ -675,16 +1521,43 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cba"
+    "$oid": "65d404a949285290e2bac8c4"
   },
   "angka": {
-    "$numberLong": "7208222001004"
+    "$numberLong": "7301011002010"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/72/7208/720822/7208222001/7208222001004"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/73/7301/730101/7301011002/7301011002010"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cbb"
+    "$oid": "65d404a949285290e2bac8c5"
+  },
+  "angka": {
+    "$numberLong": "7313022013006"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/73/7313/731302/7313022013/7313022013006"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8c6"
+  },
+  "angka": {
+    "$numberLong": "7205061003008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/72/7205/720506/7205061003/7205061003008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8c7"
+  },
+  "angka": {
+    "$numberLong": "7202062023002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/72/7202/720206/7202062023/7202062023002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8c8"
   },
   "angka": {
     "$numberLong": "7408012003004"
@@ -693,37 +1566,136 @@
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cbc"
+    "$oid": "65d404a949285290e2bac8c9"
   },
   "angka": {
-    "$numberLong": "7108032007001"
+    "$numberLong": "7171081005016"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/71/7108/710803/7108032007/7108032007001"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/71/7171/717108/7171081005/7171081005016"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cbd"
+    "$oid": "65d404a949285290e2bac8ca"
   },
   "angka": {
-    "$numberLong": "1671141004028"
+    "$numberLong": "7171071005002"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1671/167114/1671141004/1671141004028"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/71/7171/717107/7171071005/7171071005002"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cbe"
+    "$oid": "65d404a949285290e2bac8cb"
   },
   "angka": {
-    "$numberLong": "1214202001002"
+    "$numberLong": "7102232006010"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/12/1214/121420/1214202001/1214202001002"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/71/7102/710223/7102232006/7102232006010"
 },
 {
   "_id": {
-    "$oid": "65d34dc6fa260b49f9b69cbf"
+    "$oid": "65d404a949285290e2bac8cc"
   },
   "angka": {
-    "$numberLong": "1208042008002"
+    "$numberLong": "1306142001026"
   },
-  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/12/1208/120804/1208042008/1208042008002"
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/13/1306/130614/1306142001/1306142001026"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8cd"
+  },
+  "angka": {
+    "$numberLong": "1306152001005"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/13/1306/130615/1306152001/1306152001005"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8ce"
+  },
+  "angka": {
+    "$numberLong": "1307052008004"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/13/1307/130705/1307052008/1307052008004"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8cf"
+  },
+  "angka": {
+    "$numberLong": "1607182003002"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1607/160718/1607182003/1607182003002"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d0"
+  },
+  "angka": {
+    "$numberLong": "1607182003009"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1607/160718/1607182003/1607182003009"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d1"
+  },
+  "angka": {
+    "$numberLong": "1671151002056"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1671/167115/1671151002/1671151002056"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d2"
+  },
+  "angka": {
+    "$numberLong": "1671081001008"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1671/167108/1671081001/1671081001008"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d3"
+  },
+  "angka": {
+    "$numberLong": "1671081001050"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1671/167108/1671081001/1671081001050"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d4"
+  },
+  "angka": {
+    "$numberLong": "1671081001052"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1671/167108/1671081001/1671081001052"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d5"
+  },
+  "angka": {
+    "$numberLong": "1603032004003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1603/160303/1603032004/1603032004003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d6"
+  },
+  "angka": {
+    "$numberLong": "1609162001003"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/16/1609/160916/1609162001/1609162001003"
+},
+{
+  "_id": {
+    "$oid": "65d404a949285290e2bac8d7"
+  },
+  "angka": {
+    "$numberLong": "1209142008007"
+  },
+  "path": "https://pemilu2024.kpu.go.id/pilpres/hitung-suara/12/1209/120914/1209142008/1209142008007"
 }]
